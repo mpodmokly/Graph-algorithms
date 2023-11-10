@@ -1,4 +1,5 @@
 # Kruskal's algorithm finds minimum minimum spanning tree (MST) in a graph
+# using Disjoint Set Union
 
 def key(x):
     return x[2]

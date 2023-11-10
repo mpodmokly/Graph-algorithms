@@ -1,3 +1,5 @@
+# Breadth-first search
+
 from queue import Queue
 
 def bfs(G, s):

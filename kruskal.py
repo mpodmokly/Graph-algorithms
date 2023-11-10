@@ -1,4 +1,4 @@
-# Kruskal's algorithm finds minimum minimum spanning tree (MST) in a graph
+# Kruskal's algorithm finds minimum spanning tree (MST) in a graph
 # using Disjoint Set Union
 
 def key(x):

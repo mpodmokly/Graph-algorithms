@@ -1,4 +1,4 @@
-# Breadth-first search
+# Breadth-first search algorithm
 
 from queue import Queue
 

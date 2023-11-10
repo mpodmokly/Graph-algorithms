@@ -1,4 +1,4 @@
-# Algorithm finds bridges in the graph using "low" function
+# Algorithm finds bridges in a graph using "low" function
 
 def dfs(G, s, visited, time, d, low, parent, bridges):
     visited[s] = True

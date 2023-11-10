@@ -1,4 +1,4 @@
-# Dijkstra algorithm finds the shortests paths in the weighted graph
+# Dijkstra algorithm finds the shortests paths in a weighted graph
 
 from queue import PriorityQueue
 

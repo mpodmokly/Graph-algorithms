@@ -1,3 +1,6 @@
+# Edmonds-Karp algorithm finds the maximum flow in
+# a flow network
+
 from queue import Queue
 
 def bfs(G, R, s):
